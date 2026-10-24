@@ -8,41 +8,22 @@
   </li>
   {% endif %}
 
-  {% if site.twitter_username %}
+  {% if site.linkedin_username %}
   <li>
-    <a href="https://x.com/{{ site.twitter_username | cgi_escape | escape }}" title="X (Twitter)">
-      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg>
-      <span class="username">{{ site.twitter_username | escape }}</span>
+    <a href="https://www.linkedin.com/in/{{ site.linkedin_username | cgi_escape | escape }}" title="LinkedIn">
+      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>
+      <span class="username">{{ site.linkedin_username | escape }}</span>
     </a>
   </li>
   {% endif %}
 
-  {% if site.facebook_username %}
+  {% if site.email %}
   <li>
-    <a href="https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}" title="Facebook">
-      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#facebook"></use></svg>
-      <span class="username">{{ site.facebook_username | escape }}</span>
+    <a href="mailto:{{ site.email | escape }}" title="Email">
+      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#email"></use></svg>
+      <span class="username">{{ site.email | escape }}</span>
     </a>
   </li>
   {% endif %}
 
-  {% if site.telegram_username %}
-  <li>
-    <a href="https://t.me/{{ site.telegram_username | cgi_escape | escape }}" title="Telegram">
-      <svg class="svg-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-        <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L8.327 13.02l-2.96-.924c-.643-.204-.657-.643.136-.953l11.57-4.461c.537-.194 1.006.131.821.539z"/>
-      </svg>
-      <span class="username">{{ site.telegram_username | escape }}</span>
-    </a>
-  </li>
-  {% endif %}
-
-  {% if site.rss %}
-  <li>
-    <a href="{{ 'feed.xml' | relative_url }}" title="RSS">
-      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#rss"></use></svg>
-      <span>{{ site.rss | escape }}</span>
-    </a>
-  </li>
-  {% endif %}
 </ul>

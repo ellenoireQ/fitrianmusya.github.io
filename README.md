@@ -162,17 +162,15 @@ If you don't want to display comments for a particular post you can disable them
 You can add links to the accounts you have on other sites, with respective icon, by adding one or more of the following options in your config:
 
 ```yaml
-twitter_username: jekyllrb
 github_username:  jekyll
+email: jekyll@example.com
 dribbble_username: jekyll
-facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
 googleplus_username: +jekyll
-rss: rss
 ```
 
 --
