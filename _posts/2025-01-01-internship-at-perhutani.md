@@ -3,6 +3,7 @@ layout: post
 title: "Professional Journey: Internship at Perhutani"
 date: 2025-01-01
 categories: general
+coverImage: /assets/perhutani/pkl_1.jpg
 ---
 
 ## Introduction
@@ -32,7 +33,7 @@ During this periods at Planning Department i've got a lots experiences, for exam
 
 ## Project
 ### Datasearch Perencanaan
-An utility for searching large datasets of target plant plots
+A utility for searching large datasets of target plant plots
 
 #### Problem
 Searching through large amounts of planning data manually was time-consuming and inefficient.

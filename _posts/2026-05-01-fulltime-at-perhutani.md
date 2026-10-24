@@ -3,6 +3,7 @@ layout: post
 title: "Professional Journey: Fulltime at Perhutani"
 date: 2026-05-01
 categories: general
+coverImage: /assets/perhutani/peoples.jpg
 ---
 
 After completing my internship, I was given the opportunity to continue working at Perhutani as a full-time employee.
