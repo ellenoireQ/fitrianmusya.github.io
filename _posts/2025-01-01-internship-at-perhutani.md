@@ -47,8 +47,3 @@ Created with tech stacks: **Next.js, Spreadsheet, Tailwind CSS**
 After my time in the Planning Department, I was assigned to the Archive Department, where I was responsible for organizing and managing archived documents.
 
 My responsibilities included sorting documents, applying official stamps, and ensuring documents were properly organized and ready for archival.
-
-## Documentation
-
-![PKL_1]({{ '/assets/perhutani/pkl_1.jpg' | relative_url }})
-The photo was taken in Persemaian
