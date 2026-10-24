@@ -1,8 +1,8 @@
 title: Fitrian Musya
 author: Fitrian Musya
-email: YOUR_EMAIL@example.com
+email: fitrianmusya@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website for Fitrian Musya. YOUR_SHORT_DESCRIPTION_HERE.
+  A place to document my journey, projects, and explorations in software engineering.
 
 baseurl: ""
 url: "https://fitrianmusya.github.io"
