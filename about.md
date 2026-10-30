@@ -4,29 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-<!-- TODO: Replace this section with your own bio -->
+Welcome to my website! I'm Fitrian Musya, a Mathematics student at <a href="https://www.ut.ac.id/">Universitas Terbuka (Indonesia's Open University)</a>. I have passionate about Mathematics, Physics, Technology, Computer Graphics, and also Aerospace Engineering.
 
-Hi, I'm **YOUR_NAME**.
-
-YOUR_SHORT_BIO_HERE — a few sentences about who you are, what you do, and what you're interested in.
-
-## Background
-
-<!-- TODO: Fill in your professional / academic background -->
-
-- YOUR_CURRENT_ROLE at YOUR_COMPANY_OR_INSTITUTION
-- YOUR_DEGREE from YOUR_UNIVERSITY
-
-## Interests
-
-<!-- TODO: List your interests / areas of focus -->
-
-- Interest 1
-- Interest 2
-- Interest 3
-
-## Contact
-
-You can reach me at: YOUR_EMAIL@example.com
-
-<!-- TODO: Add links to your social profiles, GitHub, etc. -->
+My long-term goal is to sharpen my knowledge about deeper mathematics and physics field especially in Aerospace Engineering.
