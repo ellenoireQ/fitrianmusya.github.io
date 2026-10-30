@@ -34,6 +34,8 @@
         <a href="{{ post.url | relative_url }}">
           {% if post.coverImage %}
             <img src="{{ post.coverImage | relative_url }}" alt="{{ post.title | escape }}">
+          {% else %}
+            <img src="{{ '/assets/placeholder.svg' | relative_url }}" alt="{{ post.title | escape }}">
           {% endif %}
           <h4>{{ post.title }}</h4>
         </a>

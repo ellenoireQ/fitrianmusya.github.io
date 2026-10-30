@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">No cover image</title>
+  <desc id="desc">Placeholder image for posts without a cover image</desc>
+  <rect width="1200" height="675" fill="#89939a"/>
+  <path d="M0 520 300 250l180 150 170-180 550 400H0z" fill="#6e7880"/>
+  <circle cx="850" cy="215" r="75" fill="#b7bec2"/>
+  <text x="600" y="590" fill="#fff" font-family="Arial, sans-serif" font-size="42" text-anchor="middle">No cover image</text>
+</svg>
